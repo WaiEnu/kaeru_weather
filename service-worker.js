@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/KaeruWeather/precache-manifest.9b088f3285f352b63d281f73e5f93fc3.js"
+  "/KaeruWeather/precache-manifest.9a142d965151521baf81bf421d2f9ab4.js"
 );
 
 self.addEventListener('message', (event) => {
