@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ffbfb106d8c6ce839c17c53056cb4bcf",
+    "revision": "9e7325b71141556c850ae167d26e3393",
     "url": "/kaeru_weather/index.html"
   },
   {
-    "revision": "7a01cdb7c029334f993a",
-    "url": "/kaeru_weather/static/css/main.6caec078.chunk.css"
+    "revision": "2093974a7ba38f3222e7",
+    "url": "/kaeru_weather/static/css/main.07cc42ee.chunk.css"
   },
   {
     "revision": "4d03a5508b0da2083f24",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kaeru_weather/static/js/2.896b471e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7a01cdb7c029334f993a",
-    "url": "/kaeru_weather/static/js/main.11fe6b59.chunk.js"
+    "revision": "2093974a7ba38f3222e7",
+    "url": "/kaeru_weather/static/js/main.fed60ef7.chunk.js"
   },
   {
     "revision": "d7f0eee6f357d487fe6a",
