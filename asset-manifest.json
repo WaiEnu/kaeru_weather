@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/KaeruWeather/static/css/main.b9b99a92.chunk.css",
-    "main.js": "/KaeruWeather/static/js/main.36cfcdef.chunk.js",
-    "main.js.map": "/KaeruWeather/static/js/main.36cfcdef.chunk.js.map",
-    "runtime-main.js": "/KaeruWeather/static/js/runtime-main.32751fa0.js",
-    "runtime-main.js.map": "/KaeruWeather/static/js/runtime-main.32751fa0.js.map",
-    "static/js/2.896b471e.chunk.js": "/KaeruWeather/static/js/2.896b471e.chunk.js",
-    "static/js/2.896b471e.chunk.js.map": "/KaeruWeather/static/js/2.896b471e.chunk.js.map",
-    "index.html": "/KaeruWeather/index.html",
-    "precache-manifest.391fb6510265be65d660c8ac7ec05e66.js": "/KaeruWeather/precache-manifest.391fb6510265be65d660c8ac7ec05e66.js",
-    "service-worker.js": "/KaeruWeather/service-worker.js",
-    "static/css/main.b9b99a92.chunk.css.map": "/KaeruWeather/static/css/main.b9b99a92.chunk.css.map",
-    "static/js/2.896b471e.chunk.js.LICENSE.txt": "/KaeruWeather/static/js/2.896b471e.chunk.js.LICENSE.txt",
-    "static/media/owf-font.css": "/KaeruWeather/static/media/50n.545a0598.png"
+    "main.css": "/kaeru_weather/static/css/main.6caec078.chunk.css",
+    "main.js": "/kaeru_weather/static/js/main.4b369b6f.chunk.js",
+    "main.js.map": "/kaeru_weather/static/js/main.4b369b6f.chunk.js.map",
+    "runtime-main.js": "/kaeru_weather/static/js/runtime-main.4812b934.js",
+    "runtime-main.js.map": "/kaeru_weather/static/js/runtime-main.4812b934.js.map",
+    "static/js/2.896b471e.chunk.js": "/kaeru_weather/static/js/2.896b471e.chunk.js",
+    "static/js/2.896b471e.chunk.js.map": "/kaeru_weather/static/js/2.896b471e.chunk.js.map",
+    "index.html": "/kaeru_weather/index.html",
+    "precache-manifest.5fd7dba5b9f9cc7524c5b86545a7519a.js": "/kaeru_weather/precache-manifest.5fd7dba5b9f9cc7524c5b86545a7519a.js",
+    "service-worker.js": "/kaeru_weather/service-worker.js",
+    "static/css/main.6caec078.chunk.css.map": "/kaeru_weather/static/css/main.6caec078.chunk.css.map",
+    "static/js/2.896b471e.chunk.js.LICENSE.txt": "/kaeru_weather/static/js/2.896b471e.chunk.js.LICENSE.txt",
+    "static/media/owf-font.css": "/kaeru_weather/static/media/50n.545a0598.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.32751fa0.js",
+    "static/js/runtime-main.4812b934.js",
     "static/js/2.896b471e.chunk.js",
-    "static/css/main.b9b99a92.chunk.css",
-    "static/js/main.36cfcdef.chunk.js"
+    "static/css/main.6caec078.chunk.css",
+    "static/js/main.4b369b6f.chunk.js"
   ]
 }
