@@ -1,0 +1,83 @@
+.owf {
+  display: inline-block;
+  font: normal normal normal 14px/1 owfont;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transform: translate(0, 0);
+}
+.owf-01d {
+  content: url("font/01d.png");
+  width: 40px;
+  height: 40px;
+}
+.owf-01n::before {
+  content: url("font/01n.png");
+  width: 40px;
+  height: 40px;
+}
+.owf-02d::before,
+.owf-03d::before,
+.owf-04d::before {
+  content: url("font/02d.png");
+  width: 40px;
+  height: 40px;
+}
+.owf-02n::before,
+.owf-03n::before,
+.owf-04n::before {
+  content: url("font/02n.png");
+  width: 40px;
+  height: 40px;
+}
+.owf-09d::before {
+  content: url("font/09d.png");
+  width: 40px;
+  height: 40px;
+}
+.owf-09n::before {
+  content: url("font/09n.png");
+  width: 40px;
+  height: 40px;
+}
+.owf-10d::before {
+  content: url("font/10d.png");
+  width: 40px;
+  height: 40px;
+}
+.owf-10n::before {
+  content: url("font/10n.png");
+  width: 40px;
+  height: 40px;
+}
+.owf-11d::before {
+  content: url("font/11d.png");
+  width: 40px;
+  height: 40px;
+}
+.owf-11n::before {
+  content: url("font/11n.png");
+  width: 40px;
+  height: 40px;
+}
+.owf-13d::before {
+  content: url("font/13d.png");
+  width: 40px;
+  height: 40px;
+}
+.owf-13n::before {
+  content: url("font/13n.png");
+  width: 40px;
+  height: 40px;
+}
+.owf-50d::before {
+  content: url("font/50d.png");
+  width: 40px;
+  height: 40px;
+}
+.owf-50n::before {
+  content: url("font/50n.png");
+  width: 40px;
+  height: 40px;
+}

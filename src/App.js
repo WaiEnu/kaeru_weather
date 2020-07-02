@@ -1,4 +1,5 @@
 import React from 'react';
+import './css/owf-font.css';
 import './css/Weather.css';
 
 class App extends React.Component {
@@ -103,7 +104,8 @@ class App extends React.Component {
             </h1>
             <p className="icon">
               {icon && (
-                <img src={`http://openweathermap.org/img/w/${icon}.png`} alt="weather icon"/>
+                <i className={`owf owf-${icon}`}></i>
+                // <img src={`http://openweathermap.org/img/w/${icon}.png`} alt="weather icon"/>
               )}
             </p>
           </div>
