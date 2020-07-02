@@ -60,8 +60,7 @@ class App extends React.Component {
     .catch((err) => {
       this.setErr(lat,lon);
       console.log(err);
-    });;
-      
+    });
   }
 
   componentDidMount() {
