@@ -37,7 +37,7 @@ class App extends React.Component {
   }
 
   weatherRequest = async (lat,lon) => {
-    const URL_BASE="http://api.openweathermap.org/data/2.5/weather";
+    const URL_BASE="https://api.openweathermap.org/data/2.5/weather";
     const UNITS="metric";
     const API_KEY="abf7bb42eee05588c0f5ed53510c5de5";
     const url=`${URL_BASE}?lat=${lat}&lon=${lon}&units=${UNITS}&appid=${API_KEY}`;
